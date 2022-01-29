@@ -109,16 +109,8 @@
       "id": 11
     },
     {
-      "_name": "Demo123",
-      "_profilePic": "../assets/profile-images/Ellipse -1.png",
-      "_gender": "female",
-      "_department": [
-        "Finance",
-        "Engineer"
-      ],
-      "_salary": "428100",
-      "_note": "                ",
-      "_startDate": 1621189800000,
+      "name": "Harry",
+      "salary": "5000",
       "id": 12
     }
   ]
